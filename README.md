@@ -12,10 +12,6 @@
   *[Tests](#tests)
   *[Questions](#questions)
 
-  ## Installation
-
-  none
-
   ## Usage
 
   Run node index.js in the command line, answer the generated questions and after the last question is answered a readme file will be generated.
@@ -29,9 +25,6 @@
 
   Karina Ayala
 
-  ## Tests
-
-  none
 
   ## Questions
   Please submit questions to my email: karinaayala12@ymail.com
